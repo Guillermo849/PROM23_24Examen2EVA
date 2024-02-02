@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen2EVA</string>
+    <string name="elementos">ELEMENTOS</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="qu_mico">QUÍMICO</string>
+    <string name="salir">SALIR</string>
+    <string name="num_consultas">Num Consultas:</string>
+    <string name="numConsultas">0</string>
+</resources>
